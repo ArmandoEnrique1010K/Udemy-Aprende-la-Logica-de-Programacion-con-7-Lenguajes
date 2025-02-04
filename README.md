@@ -1,2 +1,3 @@
-# Aprende-la-L-gica-de-Programaci-n-con-7-Lenguajes
-Curso de Global Mentory
+# Aprende-la-Logica-de-Programacion-con-7-Lenguajes
+
+Este repositorio contiene los codigos ejecutables que fueron utilizados a lo largo del curso de Global Mentory
